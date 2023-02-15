@@ -1,0 +1,1 @@
+# calculate-solar-details
